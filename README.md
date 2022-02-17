@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bilal-darwish
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html & css
+- 👨‍🏫 I have learned HTML and CSS
+- 🌱 I’m currently learning game creation
 
 <!---
 bilal-darwish/bilal-darwish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
